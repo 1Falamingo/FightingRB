@@ -1,0 +1,2 @@
+ruby fighting.rb
+pause
